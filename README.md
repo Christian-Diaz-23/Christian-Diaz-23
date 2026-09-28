@@ -34,3 +34,4 @@ As a member of the **Backend and Database team**, I worked with PostgreSQL and S
 - Strengthening my backend and database development skills
 - Building applications with Java, Python, SQL, and PostgreSQL
 - Pursuing opportunities in software development, backend development, and database development
+- Planning to pursue a master's degree to continue advancing my education****
